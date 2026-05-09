@@ -6,6 +6,9 @@
   "cardBackImageUrl": "https://raw.githubusercontent.com/Scarletleaf1000/rampart-cgs/main/Rampart%20v0.2/CardBack.png",
   "allSetsUrl": null,
   "allCardsUrl": "https://raw.githubusercontent.com/Scarletleaf1000/rampart-cgs/main/Rampart%20v0.2/AllCards.json",
+  "cardImageFileType": "png",
+  "cardImageUrl": "https://raw.githubusercontent.com/Scarletleaf1000/rampart-cgs/main/Rampart%20v0.2/sets/fronts/",
+  "cardImageProperty": "",
   "cardIdIdentifier": "id",
   "cardNameIdentifier": "name",
   "cardNameIsUnique": true,
@@ -18,12 +21,15 @@
   "setNameDefault": "_CGSDEFAULT_",
   "setNameIdentifier": "name",
   "cardBackFaceImageUrls": [],
-  "cardImageFileType": "png",
-  "cardImageUrl": "",
   "cardRotationDefault": 0,
   "gameCardRotationDegrees": 90,
   "gameDefaultCardAction": "flip",
-  "cardSize": {"x": 2.5, "y": 3.5},
   "playMatSize": {"x": 36.0, "y": 36.0},
-  "playMatGridCellSize": {"x": 0.5, "y": 0.5}
+  "playMatGridCellSize": {"x": 0.5, "y": 0.5},
+  "deckUrls": [
+    {"name": "Deck 1", "url": "https://raw.githubusercontent.com/Scarletleaf1000/rampart-cgs/main/Rampart%20v0.2/decks/Rampart_Balanced_Deck.txt"},
+    {"name": "Deck 2", "url": "https://raw.githubusercontent.com/Scarletleaf1000/rampart-cgs/main/Rampart%20v0.2/decks/Rampart_Offensive_Deck.txt"},
+    {"name": "Deck 3", "url": "https://raw.githubusercontent.com/Scarletleaf1000/rampart-cgs/main/Rampart%20v0.2/decks/Rampart_Defensive_Deck.txt"},
+    {"name": "Deck 4", "url": "https://raw.githubusercontent.com/Scarletleaf1000/rampart-cgs/main/Rampart%20v0.2/decks/Rampart_Magic_Deck.txt"}
+  ]
 }
