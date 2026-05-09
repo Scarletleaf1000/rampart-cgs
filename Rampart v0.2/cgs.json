@@ -27,9 +27,9 @@
   "playMatSize": {"x": 36.0, "y": 36.0},
   "playMatGridCellSize": {"x": 0.5, "y": 0.5},
   "deckUrls": [
-    {"name": "Deck 1", "url": "https://raw.githubusercontent.com/Scarletleaf1000/rampart-cgs/main/Rampart%20v0.2/decks/Rampart_Balanced_Deck.txt"},
-    {"name": "Deck 2", "url": "https://raw.githubusercontent.com/Scarletleaf1000/rampart-cgs/main/Rampart%20v0.2/decks/Rampart_Offensive_Deck.txt"},
-    {"name": "Deck 3", "url": "https://raw.githubusercontent.com/Scarletleaf1000/rampart-cgs/main/Rampart%20v0.2/decks/Rampart_Defensive_Deck.txt"},
-    {"name": "Deck 4", "url": "https://raw.githubusercontent.com/Scarletleaf1000/rampart-cgs/main/Rampart%20v0.2/decks/Rampart_Magic_Deck.txt"}
+    {"name": "Rampart Balanced Deck", "url": "https://raw.githubusercontent.com/Scarletleaf1000/rampart-cgs/main/Rampart%20v0.2/decks/Rampart_Balanced_Deck.txt"},
+    {"name": "Rampart Offensive Deck", "url": "https://raw.githubusercontent.com/Scarletleaf1000/rampart-cgs/main/Rampart%20v0.2/decks/Rampart_Offensive_Deck.txt"},
+    {"name": "Rampart Defensive Deck", "url": "https://raw.githubusercontent.com/Scarletleaf1000/rampart-cgs/main/Rampart%20v0.2/decks/Rampart_Defensive_Deck.txt"},
+    {"name": "Rampart Magic Deck", "url": "https://raw.githubusercontent.com/Scarletleaf1000/rampart-cgs/main/Rampart%20v0.2/decks/Rampart_Magic_Deck.txt"}
   ]
 }
