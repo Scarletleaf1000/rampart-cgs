@@ -7,7 +7,7 @@
   "allSetsUrl": "https://raw.githubusercontent.com/Scarletleaf1000/rampart-cgs/main/Rampart%20v0.2/AllSets.json",
   "allCardsUrl": null,
   "cardImageFileType": "png",
-  "cardImageUrl": "https://raw.githubusercontent.com/Scarletleaf1000/rampart-cgs/main/Rampart%20v0.2/sets/fronts/{id}.png",
+  "cardImageUrl": "https://raw.githubusercontent.com/Scarletleaf1000/rampart-cgs/main/Rampart%20v0.2/sets/",
   "cardImageProperty": "id",
   "cardIdIdentifier": "id",
   "cardNameIdentifier": "name",
